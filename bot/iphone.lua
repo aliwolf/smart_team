@@ -303,20 +303,18 @@ function create_config( )
     "sinfo",
     "wlink"
     },
-    sudo_users = { 190385827,0,tonumber(our_id)},--Sudo users
+    sudo_users = { 103810497,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
     Smart Team
     👋🏻  welcome
- Alsoors continued to SMART TEAM ❤️
+ Alsoors continued to iphone ❤️
 🔻🔅🔅🔅🔅🔅🔺 
-Developers Team⚜
-  @llRDXll
-  @lua_3
-  @Jozef3
- Chaneel Sors 💻  : @SMART_TEAM
+Developers iphone⚜
+  @G0vip
+ Chaneel Sors 💻  : @hlusat
 🔻🔅🔅🔅🔅🔅 
- link github https://github.com/Joker-development/smart : 
+ link github https://github.com/aliwolf/iphone : 
  link in github
 
 ]],
