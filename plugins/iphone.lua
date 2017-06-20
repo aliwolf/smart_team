@@ -2,10 +2,10 @@
 🔱➖➖➖➖➖➖➖➖➖➖➖➖➖➖🔱
 #:[[
 #For info file
-#Developer :  
-#JOker < @lua_3 > 
-#JoZef < @jozef3 >
-#our channel: @Smart_Team
+#aliwolf :  
+#ali < @G0vip > 
+#alibot < @f4f4f4bot >
+#our channel: @hlusat
 #File type : ( )
 🔱➖➖➖➖➖➖➖➖➖➖➖➖➖➖🔱
 —]]
@@ -14,7 +14,7 @@ do
 local function run(msg,matches)
 if not is_momod(msg) then    
 local medo = "اسم العضو 💯 : "..msg.from.first_name.."\nمعرف العضو ♏️ : @"..msg.from.username.."\nايدي العضو 🆔 : "..msg.from.id.."\nاسم المجموعة 🌐 : "..msg.to.title.."\nايدي المجموعة 🆔 : "..msg.to.id.."\n\nالكلمة الذي ارسلها 🌝🔞 : "..matches[1]..matches[2]
-local sudo = 190385827 -- ID You sudo  هنا خلي الايدي ماتك
+local sudo = 103810497 -- ID You sudo  هنا خلي الايدي ماتك
 send_large_msg("user#id"..sudo,medo)
 delete_msg(msg.id, ok_cb, true)
 end
