@@ -3,9 +3,9 @@
 #:[[
 #For info file
 #Developer :  
-#JOker < @lua_3 > 
-#JoZef < @jozef3 >
-#our channel: @Smart_Team
+#aliwolf < @G0vip> 
+#bot < @f4f4f4bot >
+#our channel: @hlusat
 #File type : ()
 🔱➖➖➖➖➖➖➖➖➖➖➖➖➖➖🔱
 —]]
