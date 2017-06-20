@@ -19,4 +19,4 @@ return {
   }, 
   run = run 
 }
--- arabic : @mohammedzedan
+-- arabic : @G0vip
