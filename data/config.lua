@@ -1,6 +1,6 @@
 
 do local _ = {
-  about_text = "👋🏻  welcome\n Alsoors continued to SMART TEAM ❤️\n🔻🔅🔅🔅🔅🔅🔺 \nDevelopers Team⚜\n  @lua_3\n @jozef3\n Chaneel Sors 💻  : @SMART_TEAM\n🔻🔅🔅🔅🔅🔅 \n link github https://github.com/team-smart/smart_team : link in github",
+  about_text = "👋🏻  welcome\n Alsoors continued to iphone ❤️\n🔻🔅🔅🔅🔅🔅🔺 \nDevelopers Team⚜\n  @lua_3\n @G0vip\n Chaneel Sors 💻  : @hlusat\n🔻🔅🔅🔅🔅🔅 \n link github https://github.com/aliwolf/iphone : link in github",
   enabled_plugins = {
         "admin",
     "onservice",
@@ -97,7 +97,7 @@ do local _ = {
     data = "data/moderation.json"
   },
   sudo_users = {
-    190385827
+    103810497
   }
 }
 return _
