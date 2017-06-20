@@ -11,7 +11,7 @@ return "😃 Hi "..msg.from.first_name.."\n"
 .."🕯Sec "..os.date(' %S', os.time()).."\n"
 .."📿date "..os.date(' %x', os.time()).."\n"
 .."🛰Time "..os.date(' %X', os.time()).."\n"
-.."❤️ Dev By @smart_team & @Help_telp"
+.."❤️ Dev By @G0vip & @hlusat"
 end
 
 return {
